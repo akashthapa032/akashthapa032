@@ -98,6 +98,7 @@
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
   </a>
 </p>
+<!---
 <h3 align="center">Connect with me</h3>
 <div style="margin-top:10px" align="center">
   <div>
@@ -135,6 +136,7 @@
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a>
 </p>
+-->
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
 
