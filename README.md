@@ -141,15 +141,15 @@
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
 
 <a href="https://github.com/akashthapa032/akashthapa032">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashthapa032&theme=gruvbox&hide_border=true)](https://github.com/akashthapa032" alt="Bharat's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashthapa032&theme=vue&hide_border=true)](https://github.com/akashthapa032" alt="Bharat's GitHub Stats Graph"/>
 </a>
 <br><br>
 <a href="https://github.com/akashthapa032/akashthapa032">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashthapa032&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Akash%20V%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashthapa032&count_private=true&show_icons=true&theme=vue&hide_border=true&custom_title=Akash%20V%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
 </a>
 <h3>Longest vs Current Streak </h3>
 <a href="https://github.com/akashthapa032/akashthapa032">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashthapa032&theme=gruvbox" alt="Akash's GitHub Streak Stats"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashthapa032&theme=vue" alt="Akash's GitHub Streak Stats"/>
 </a>
 <br><br>
 <a href="https://github.com/akashthapa032/akashthapa032">
