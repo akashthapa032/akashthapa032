@@ -1,6 +1,6 @@
 ## Hey there ... I am Akash 👋
 
-![GitHub followers](https://img.shields.io/github/followers/bindian0509?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bindian0509?style=social)
+![GitHub followers](https://img.shields.io/github/followers/akashthapa032?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/akashthapa032?style=social)
 
 - 🔭 I'm currently working as Software Engineer working on Java, Javascript, EmberJs, Docker, and Kubernetes.
 - 🧓 I'm a seasoned programmer in Java who specializes in building backend architecture with Spring, MySQL, Kafka, Redis, Elasticsearch, Splunk
