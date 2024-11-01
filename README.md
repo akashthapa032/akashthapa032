@@ -1,15 +1,13 @@
 ## Hey there ... I am Akash 👋
-<!---
+
 ![GitHub followers](https://img.shields.io/github/followers/bindian0509?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bindian0509?style=social)
 
-- 🔭 I'm currently working as Director, Software Engineering working on PHP, Symfony, MS-SQL, Docker, and Kubernetes over Azure.
-- 🧓 I'm a seasoned programmer in Java who specializes in building backend architecture with Spring, MySQL, Kafka, Redis, Elasticsearch, MongoDB, AWS, Cassandra
+- 🔭 I'm currently working as Software Engineer working on Java, Javascript, EmberJs, Docker, and Kubernetes.
+- 🧓 I'm a seasoned programmer in Java who specializes in building backend architecture with Spring, MySQL, Kafka, Redis, Elasticsearch, Splunk
 - 👯 I'm looking to collaborate on - Backend System Design | Generative AI | Buidling and Improving CI/CD pipelines | App Development 
-- 💬 Ask me about Java, SQL, or NoSQL (MongoDB) database, System designing problems.
-- 📫 How to reach me: bharatv [at] outlook.in or via following [@bharat](https://linktree.com/bharatv)
+- 📫 How to reach me: 
 - 😄 Pronouns: He/Him/His
-- 🕊️ Follow me on twitter at [@iAmBharatv](https://twitter.com/iambharatv)
--->
+
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 <h3 align="center">Languages</h3>
