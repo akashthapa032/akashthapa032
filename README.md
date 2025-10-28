@@ -103,10 +103,10 @@
     <a  href="https://dev.to/bindian0509" target="_blank">
       <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
     </a>
-    <a href="https://bharatv90s.medium.com/" target="_blank">
+    <a href="https://Akashv90s.medium.com/" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
     </a>
-    <a  href="https://www.linkedin.com/in/bharatverma/" target="_blank">
+    <a  href="https://www.linkedin.com/in/Akashverma/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
     <a href="https://twitter.com/bindian0509" target="_blank">
@@ -117,10 +117,10 @@
     <a href="https://leetcode.com/bindian0509/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
     </a>
-        <a href="https://bharatv.hashnode.dev/" target="_blank">
+        <a href="https://Akashv.hashnode.dev/" target="_blank">
       <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="example"/>
     </a>
-    <a  href="https://stackoverflow.com/users/723817/bharat" target="_blank">
+    <a  href="https://stackoverflow.com/users/723817/Akash" target="_blank">
       <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="example"/>
     </a>
   </div>
@@ -130,25 +130,31 @@
   <a  href="https://t.me/PhoneixPerson" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
   </a>
-  <a href="mailto:bharatv@outlook.in?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="mailto:Akashv@outlook.in?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a>
 </p>
 -->
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
-
 <a href="https://github.com/akashthapa032/akashthapa032">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashthapa032&theme=vue&hide_border=true)](https://github.com/akashthapa032" alt="Bharat's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashthapa032&theme=vue&hide_border=true)](https://github.com/akashthapa032" alt="Akash's GitHub Stats Graph"/>
 </a>
 <br><br>
+  <div>
 <a href="https://github.com/akashthapa032/akashthapa032">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashthapa032&count_private=true&show_icons=true&theme=vue&hide_border=true&custom_title=Akash%20V%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashthapa032&count_private=true&show_icons=true&theme=vue&hide_border=true&custom_title=Akash%20T%27s%20Github%20Stats" alt="Akash's GitHub Stats" />
 </a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashthapa032&layout=compact&theme=vue" alt="Akash Thapa github readme top-langs" width="39%" />
+  </div>
+<div>
 <h3>Longest vs Current Streak </h3>
 <a href="https://github.com/akashthapa032/akashthapa032">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashthapa032&theme=vue" alt="Akash's GitHub Streak Stats"/>
 </a>
+ 
+
+</div>
 <br><br>
 <a href="https://github.com/akashthapa032/akashthapa032">
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=akashthapa032&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=false" alt="akash's GitHub Contributions Graph"/>
